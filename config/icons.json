@@ -246,9 +246,30 @@
       "rotate": false,
       "mask": false
     },
+    "favicon-64x64.png": {
+      "width": 64,
+      "height": 64,
+      "transparent": true,
+      "rotate": false,
+      "mask": false
+    },
     "favicon-96x96.png": {
       "width": 96,
       "height": 96,
+      "transparent": true,
+      "rotate": false,
+      "mask": false
+    },
+    "favicon-128x128.png": {
+      "width": 128,
+      "height": 128,
+      "transparent": true,
+      "rotate": false,
+      "mask": false
+    },
+    "favicon-256x256.png": {
+      "width": 256,
+      "height": 256,
       "transparent": true,
       "rotate": false,
       "mask": false
